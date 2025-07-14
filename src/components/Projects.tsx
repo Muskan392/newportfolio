@@ -33,6 +33,16 @@ const Projects = () => {
   github: 'https://github.com/Muskan392/todo-app',
   live: 'https://todo-app-black-six.vercel.app/',
   gradient: 'from-purple-500 to-indigo-600'
+},
+{
+  title: 'MoodMate',
+description: 'A personal mood tracking app with emoji-based mood selection, inspirational messages, and localStorage support to track emotional well-being. Includes dark theme, animated UI, and notes saving feature.',
+role: 'Frontend Development',
+tech: ['React', 'Tailwind CSS', 'Framer Motion', 'LocalStorage'],
+icon: '🌈',
+github: 'https://github.com/Muskan392/MoodMate',
+live: 'https://mood-mate-mocha.vercel.app/',
+gradient: 'from-pink-500 to-purple-600'
 }
 
   ];
